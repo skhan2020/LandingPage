@@ -2,12 +2,20 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [About](#about)
+* [Special Feature](#special)
+* [Extra Feature](#extra)
 
-## Instructions
+## About
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This is a Landing page app that has a custom navigation bar that corresponds to the number of sections in the page. There are three sections in the html page in the start and adds 4 more sections dynamically. 
 
-To get started, open `js/app.js` and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## special
+
+On clicking the navigation links, the page will scroll to the corresponding section and style it so it can be identified as the active section. 
+
+
+## extra
+
+When the user scrolls the page, the section near the top of the page should automatically get styled as active and its corresponding navigation link should show selected state.
